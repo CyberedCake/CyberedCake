@@ -6,10 +6,10 @@
 #### _Here's some links that could be useful:_
 
 
-Discord > CyberCake#9221
+Discord > CyberedCake#9221
 
-Twitter > [@trueCyberCake](https://twitter.com/trueCyberCake)
+Twitter > [@CyberedCake](https://twitter.com/CyberedCake)
 
-YouTube > [CyberCake Playz](https://youtube.com/CyberCakePlayz)
+YouTube > [CyberedCake](https://youtube.com/CyberCakePlayz)
 
-GitHub > [CyberedCake](https://github.com/CyberedCake) (you're already here, silly)
+GitHub > [CyberedCake](https://github.com/CyberedCake) (you're already here!)
