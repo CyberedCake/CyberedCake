@@ -1,15 +1,21 @@
 # Hello!
-## I am CyberedCake
-### Welcome to my profile
+## My name is CyberedCake, welcome to my profile!
 
-### Need to contact me?
-#### _Here's some links that could be useful:_
+## **My GitHub Stats:** (including private repos) :globe_with_meridians:
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cyberedcake&count_private=true&show_icons=true&theme=cobalt)
 
+## **My Star Repositories:** :star:
+[CyberAPI](https://github.com/CyberedCake/CyberAPI) a library for Spigot and Bungeecord QoL features <br>
+[cmd_plugins](https://github.com/CyberedCake/cmd_plugins) a Bungeecord plugin that allows for `/gver` and `/gpl` (like Bukkit's `/ver` and `/pl`)
+<br> <br>
+(you'll notice I do a lot of coding for Spigot and Bungeecord, may end up learning the Fabric API in the future as well)
 
-Discord > CyberedCake#9221
+## Contact Me! :mailbox_with_mail:
+| Platform   | Handler                                            |
+| ---------- | -------------------------------------------------- |
+| Discord    | CyberedCake#9221                                   |
+| Twitter    | [@CyberedCake](https://twitter.com/CyberedCake)    |
+| YouTube    | [CyberedCake](https://youtube.com/CyberedCake)     |
+| GitHub     | [CyberedCake](https://github.com/CyberedCake)      |
 
-Twitter > [@CyberedCake](https://twitter.com/CyberedCake)
-
-YouTube > [CyberedCake](https://youtube.com/CyberCakePlayz)
-
-GitHub > [CyberedCake](https://github.com/CyberedCake) (you're already here!)
+## Last Updated: July 4th, 2022
