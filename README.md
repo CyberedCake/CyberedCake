@@ -2,7 +2,7 @@
 ## My name is CyberedCake, welcome to my profile!
 
 ## **My GitHub Stats:** (including private repos) :globe_with_meridians:
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cyberedcake&count_private=true&show_icons=true&theme=cobalt)
+![CyberedCake's GitHub Stats](https://github-readme-stats.vercel.app/api?username=cyberedcake&count_private=true&show_icons=true&theme=radical)
 
 ## **My Star Repositories:** :star:
 [CyberAPI](https://github.com/CyberedCake/CyberAPI) a library for Spigot and Bungeecord QoL features <br>
