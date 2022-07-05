@@ -18,4 +18,4 @@
 | YouTube    | [CyberedCake](https://youtube.com/CyberedCake)     |
 | GitHub     | [CyberedCake](https://github.com/CyberedCake)      |
 
-## Last Updated: July 4th, 2022
+## Last Updated: July 5th, 2022
