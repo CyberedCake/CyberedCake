@@ -15,7 +15,7 @@
 
 ## **My Star Repositories:** :star:
 [CyberAPI](https://github.com/CyberedCake/CyberAPI) a library for Spigot and Bungeecord QoL features <br>
-[cmd_plugins](https://github.com/CyberedCake/cmd_plugins) a Bungeecord plugin that allows for `/gver` and `/gpl` (like Bukkit's `/ver` and `/pl`)
+[cmd_plugins](https://github.com/CyberedCake/cmd_plugins) a Bungeecord plugin that allows for `/gver` and `/gpl` (like Bukkit's `/ver` and `/pl`) <br>
 [DiscordMusicBot](https://github.com/CyberedCake/DiscordMusicBot) a Discord bot made to play YouTube links & Spotify links made specifically by me
 <br> <br>
 (you'll notice I do a lot of coding for Spigot and Bungeecord, may end up learning the Fabric API in the future as well)
