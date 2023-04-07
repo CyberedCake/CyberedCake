@@ -25,7 +25,7 @@
 | ---------- | -------------------------------------------------- |
 | Discord    | CyberedCake#9221                                   |
 | Twitter    | [@CyberedCake](https://twitter.com/CyberedCake)    |
-| YouTube    | [CyberedCake](https://youtube.com/CyberedCake)     |
+| YouTube    | [@CyberedCake](https://youtube.com/@CyberedCake)   |
 | GitHub     | [CyberedCake](https://github.com/CyberedCake)      |
 
-## Last Updated: March 12th, 2023
+## Last Updated: April 7th, 2023
