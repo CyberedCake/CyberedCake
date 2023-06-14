@@ -23,9 +23,9 @@
 ## Contact Me! :mailbox_with_mail:
 | Platform   | Handler                                            |
 | ---------- | -------------------------------------------------- |
-| Discord    | CyberedCake#9221                                   |
+| Discord    | @cyberedcake                                       |
 | Twitter    | [@CyberedCake](https://twitter.com/CyberedCake)    |
 | YouTube    | [@CyberedCake](https://youtube.com/@CyberedCake)   |
 | GitHub     | [CyberedCake](https://github.com/CyberedCake)      |
 
-## Last Updated: April 7th, 2023
+## Last Updated: June 14th, 2023
